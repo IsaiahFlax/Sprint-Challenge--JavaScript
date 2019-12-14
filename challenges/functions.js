@@ -34,7 +34,7 @@ console.log(consume(10, 16, multiply)); // 160
 // ==== Closures ==== 
 
 // Explain in your own words why nestedfunction can access the variable internal.
-nestedfunction is inside myFunction along with internal, so they have the same scoped.
+//nestedfunction is inside myFunction along with internal, so they have the same scoped.
 // Explanation: 
 
 
